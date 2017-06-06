@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "SPMainAux.h"
 
 int spFiarGameGetDifficultyLevelFromUser() {
 	int difficulty_level;
